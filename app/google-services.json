@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775854294923",
+    "project_id": "kotlin-firebase-e58bb",
+    "storage_bucket": "kotlin-firebase-e58bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775854294923:android:8f6c6d2f5c9cf91d0ad18e",
+        "android_client_info": {
+          "package_name": "sv.udb.edu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFRQByaB-Qip0Q2OHr5EXOevrbE71ukHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

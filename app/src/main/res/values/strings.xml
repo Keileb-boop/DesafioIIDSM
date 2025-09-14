@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Desafio_2_DSM</string>
+
+    <!-- Ya que agregaste Google Sign-In -->
+    <string name="default_web_client_id">775854294923-1p9vgctnrcve3gmtja1ci9o5r5056hp9.apps.googleusercontent.com</string>
+
+
+    <!-- Si más adelante usas Facebook -->
+    <string name="facebook_app_id">TU_FACEBOOK_APP_ID</string>
+    <string name="fb_login_protocol_scheme">fbTU_FACEBOOK_APP_ID</string>
+</resources>
