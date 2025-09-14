@@ -32,7 +32,18 @@ Este proyecto es una aplicación móvil desarrollada en **Kotlin para Android** 
 1. **Pantalla de Registro** → formulario para crear cuenta con email y contraseña.  
 2. **Pantalla de Inicio de Sesión** → formulario para ingresar con email y contraseña.  
 3. En ambas pantallas se puede cambiar entre registro e inicio de sesión.  
-4. Opción adicional de autenticarse con Google o Facebook.  
+4. Opción adicional de autenticarse con Google   
 
 ---
+## 📸 Capturas de pantalla
+
+### 🔑 Los ususarios registrados que se muestran en firebase
+![](img/usuarios.jpeg)
+
+### 📝 Boton inicio de sesión
+![](img/botongoogle.jpeg)
+
+### 🌐 Autenticación con Google
+![Login con Google](img/iniciosesion.jpeg)
+
 
